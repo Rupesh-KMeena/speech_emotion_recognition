@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Speech Emotion Recognition (SER) model using Long Short-Term Memory (LSTM) networks. The model processes audio data to classify emotions based on the extracted features from the audio signals.
+This project implements a Speech Emotion Recognition (SER) model using MLP, CNN and Long Short-Term Memory (LSTM) models. The model processes audio data to classify emotions based on the extracted features from the audio signals.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This project implements a Speech Emotion Recognition (SER) model using Long Shor
 
 - Emotion recognition from audio files.
 - Gender classification based on speech.
-- Data preprocessing using MFCC (Mel-frequency cepstral coefficients).
+- Data preprocessing using MFCC (Mel-frequency cepstral coefficients) & Spectrogram.
 - Visualization of training history (loss and accuracy).
 
 ## Technologies Used
