@@ -10,11 +10,6 @@ This project implements a Speech Emotion Recognition (SER) model using MLP, CNN 
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
